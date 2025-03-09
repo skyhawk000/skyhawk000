@@ -67,8 +67,4 @@
       <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a>
     </p>
   </div> 
-  <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyhawk000&layout=compact&theme=omni&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=skyhawk000&show_icons=true&theme=omni&hide_border=true" />
-  </p>
 </p>
