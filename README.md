@@ -32,27 +32,22 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
----
 
 ### GitHub Stats:
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=transparent&hide_border=true" />
 
----
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=transparent" width="44%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=transparent" width="44%" height="auto" style="display: inline;" />
+  
 
----
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldrin112602&theme=transparent" width="44%" height="auto" style="display: inline;" />
 
----
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=transparent" width="97%"/>
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
