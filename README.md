@@ -1,9 +1,9 @@
 ## 💫 My🌟BEST🌟 SKILLS
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abobakar-it">
+    <img src="https://komarev.com/ghpvc/?username=skyhawk000">
 </a>
-<a href="https://github.com/abobakar-it?tab=followers"><img src="https://img.shields.io/github/followers/abobakar-it?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/skyhawk000?tab=followers"><img src="https://img.shields.io/github/followers/skyhawk000?label=Followers&style=social" alt="GitHub Badge"></a>
 <p align="center">
 <table align="center">
   <tr>
@@ -145,14 +145,14 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/abobakar-it/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abobakar-it streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abobakar-it&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/skyhawk000/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abobakar-it streak" src="https://github-readme-streak-stats.herokuapp.com/?user=skyhawk000&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/abobakar-it/github-readme-stats"><img alt="abobakar-it Github Stats" src="https://github-readme-stats.vercel.app/api?username=abobakar-it&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/abobakar-it/github-readme-stats"><img alt="abobakar-it Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobakar-it&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/skyhawk000/github-readme-stats"><img alt="skyhawk000 Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyhawk000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/skyhawk000/github-readme-stats"><img alt="skyhawk000 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyhawk000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
